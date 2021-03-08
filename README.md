@@ -30,8 +30,8 @@
     <li>
       <a href="#arbeitsaufträge">Arbeitsaufträge</a>
       <ul>
-        <li><a href="#050321">5. März 2021</a></li>
-        <li><a href="#080321">8. März 2021</a></li>
+        <li><a href="#5märz21">5. März 2021</a></li>
+        <li><a href="#8märz21">8. März 2021</a></li>
       </ul>
     </li>
     <li><a href="#contact">Kontakt</a></li>
@@ -61,7 +61,7 @@ Wie Sie davon profitieren können:
 Alle bisherigen Arbeitsaufträge und ihre Ergebnisse
 
 
-<!-- 050321 -->
+<!-- 5MÄRZ21 -->
 ## 5. März 2021
 Der erste Auftrag. Hier geht es um die Grundkenntnisse und deren Anwendung.
 #### Auftrag
@@ -81,7 +81,7 @@ Hier die Werke:
 * [Nils](https://pages.yorb.xyz/Nils/050321/)
 
 
-<!-- 080321 -->
+<!-- 8MÄRZ21 -->
 ## 8. März 2021
 Der zweite Auftrag. Hier geht es um die Erstellung einer Website mit mehreren Dateien.
 #### Auftrag
