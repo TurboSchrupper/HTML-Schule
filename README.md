@@ -30,8 +30,8 @@
     <li>
       <a href="#arbeitsaufträge">Arbeitsaufträge</a>
       <ul>
-        <li><a href="#fünfmärz">5. März 2021</a></li>
-        <li><a href="#achtmärz">8. März 2021</a></li>
+        <li><a href="#5-märz-2021">5. März 2021</a></li>
+        <li><a href="#8-märz-2021">8. März 2021</a></li>
       </ul>
     </li>
     <li><a href="#contact">Kontakt</a></li>
