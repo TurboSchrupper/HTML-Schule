@@ -51,7 +51,7 @@ Wie Sie davon profitieren können:
 * Lassen sie sich inspirieren
   
 
-[![Banner][Banner]](https://discord.gg/mDjs5VpNRE)
+[![Stripe][Stripe]](https://discord.gg/mDjs5VpNRE)
 
 
 
@@ -124,3 +124,4 @@ Yann Berton - [@yoorboo](https://twitter.com/yoorboo) - yannberton.yb@gmail.com
 
 <!-- MARKDOWN LINKS & IMAGES -->
 [Banner]: https://img.yorb.xyz/gotterbanner.png
+[Stripe]: https://img.yorb.xyz/gotterstripe.png
