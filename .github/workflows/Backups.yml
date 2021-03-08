@@ -1,0 +1,29 @@
+name: Automatic Backup
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+    
+  workflow_dispatch:
+
+jobs:
+  
+  build:
+  
+    runs-on: ubuntu-latest
+
+    steps:
+    
+      - name: Get current date
+        id: date
+        run: echo "::set-output name=date::$(date +'%d.%m.%Y')"
+        
+      - uses: actions/checkout@v2
+      - name: Create Backup
+        env:
+          FILE_NAME: Backups/${{ steps.date.outputs.date }}.zip
+        run: zip -r $FILE_NAME KPW
+        
+      - uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: New Backup
