@@ -11,7 +11,7 @@
     Ein Produkt der HTML Götter
     <br />
     <br />
-    <a href="https://github.com/KKGPW/KPW">Demo</a>
+    <a href="https://pages.yorb.xyz">Demo</a>
     ·
     <a href="https://github.com/KKGPW/KPW/issues">Bugs Melden</a>
     ·
