@@ -95,6 +95,7 @@ Der zweite Auftrag. Hier geht es um die Erstellung einer Website mit mehreren Da
   - mind. 3 HTML Dateien
   - mind. 1 Class verwendet
 <hr>
+
 [![Banner][Banner]](https://discord.gg/mDjs5VpNRE)
 
 <!-- CONTACT -->
