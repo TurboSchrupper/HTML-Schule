@@ -50,6 +50,7 @@ Wie Sie davon profitieren können:
 * Programmieren sie viele Websiten in einer nicht-kompetetiven hilfsbereiten Umgebung
 * Lassen sie sich inspirieren
 
+[![Banner][Banner]](https://discord.gg/mDjs5VpNRE)
 
 
 
@@ -93,9 +94,10 @@ Der zweite Auftrag. Hier geht es um die Erstellung einer Website mit mehreren Da
   - mind. 3 HTML Dateien
   - mind. 1 Class verwendet
 
+[![Banner][Banner]](https://discord.gg/mDjs5VpNRE)
 
 <!-- CONTACT -->
-## Kontakt
+# Kontakt
 
 Team - [@LeWurmeNews](https://twitter.com/LeWurmeNews) - le.wurme.news@gmail.com<br/>
 Yann Berton - [@yoorboo](https://twitter.com/yoorboo) - yannberton.yb@gmail.com
@@ -106,7 +108,7 @@ Yann Berton - [@yoorboo](https://twitter.com/yoorboo) - yannberton.yb@gmail.com
 
 
 <!-- ACKNOWLEDGEMENTS -->
-## Danksagung
+# Danksagung
 
 * [Loaders.css](https://connoratherton.com/loaders)
 * [Font Awesome](https://fontawesome.com)
