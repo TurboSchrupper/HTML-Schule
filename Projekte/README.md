@@ -1,8 +1,10 @@
 [![Banner][Banner]](https://discord.gg/mDjs5VpNRE)
-#Yann
-### Projekte
-#### Beispieldateien
-* Noch Keine
+Dieser Ordner enthält alle Projekte der HTML Götter
+
+Folgende Dateien sind in diesem Ordner:
+* Erledigte Arbeitsaufträge
+* Persönliche Projekte
+* Beispieldateien zur freien Bedienung
 
 [![Stripe][Stripe]](https://discord.gg/mDjs5VpNRE)
 

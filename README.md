@@ -46,9 +46,9 @@
 Dies ist die GitHub Repository der HTML Schüler, ausgebildet durch die unglaublichen HTML Götter. Jene, deren Macht selbst die des großen Schauppy übertrifft. Wer die HTML Götter anzweifelt, der zweifelt am Quell des Lebens.
 
 Wie Sie davon profitieren können:
-* Lernen sie HTML
-* Programmieren sie viele Websiten in einer nicht-kompetetiven hilfsbereiten Umgebung
-* Lassen sie sich inspirieren
+* Lernen Sie HTML
+* Programmieren Sie viele Websiten in einer nicht-kompetetiven hilfsbereiten Umgebung
+* Lassen Sie sich inspirieren
   
 
 [![Stripe][Stripe]](https://discord.gg/mDjs5VpNRE)
