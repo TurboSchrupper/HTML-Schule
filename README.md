@@ -69,10 +69,12 @@ Der erste Auftrag. Hier geht es um die Grundkenntnisse und deren Anwendung.
   - Muss ein Bild enthalten
   - UTF-8 Charset
   
-Alle Schüler erledigten diesen Auftrag wirklich großartig. Hier die Werke:
-* [Gökhan](https://htmlpreview.github.io/?https://github.com/HTML-Gotter/HTML-Schule/blob/main/Gökhan/5.%20März%202021/index.html)
-* [Julian](https://htmlpreview.github.io/?https://github.com/HTML-Gotter/HTML-Schule/blob/main/Julian/5.%20März%202021/index.html)
-* [Nils](https://htmlpreview.github.io/?https://github.com/HTML-Gotter/HTML-Schule/blob/main/Nils/5.%20März%202021/index.html)
+Alle Schüler erledigten diesen Auftrag wirklich großartig. <br>
+
+Hier die Werke:
+* [Gökhan](https://pages.yorb.xyz/Gökhan/050321/)
+* [Julian](https://pages.yorb.xyz/Julian/050321/)
+* [Nils](https://pages.yorb.xyz/Nils/050321/)
 
 
 
