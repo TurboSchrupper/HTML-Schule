@@ -64,7 +64,7 @@ Alle bisherigen Arbeitsaufträge und ihre Ergebnisse
 <!-- 050321 -->
 ## 5. März 2021
 Der erste Auftrag. Hier geht es um die Grundkenntnisse und deren Anwendung.
-###Auftrag
+#### Auftrag
   Programmieren Sie ihre erste HTML.
 
   
@@ -84,7 +84,7 @@ Hier die Werke:
 <!-- 080321 -->
 ## 8. März 2021
 Der zweite Auftrag. Hier geht es um die Erstellung einer Website mit mehreren Dateien.
-###Auftrag
+#### Auftrag
   Erstellen Sie eine kleine Website mit mehreren HTML Dateien.
 
   
