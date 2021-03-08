@@ -111,8 +111,7 @@ Yann Berton - [@yoorboo](https://twitter.com/yoorboo) - yannberton.yb@gmail.com
 <!-- ACKNOWLEDGEMENTS -->
 # Danksagung
 
-* [Loaders.css](https://connoratherton.com/loaders)
-* [Font Awesome](https://fontawesome.com)
+* [Deneux](https://tenor.com/view/biere-faim-mdr-soiree-huugoo-gif-16805976)s
 
 
 
