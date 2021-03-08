@@ -61,7 +61,7 @@ Wie Sie davon profitieren können:
 Alle bisherigen Arbeitsaufträge und ihre Ergebnisse
 
 
-<!-- FÜNFMÄRZ -->
+<!-- 5. März 2021 -->
 ## 5. März 2021
 Der erste Auftrag. Hier geht es um die Grundkenntnisse und deren Anwendung.
 #### Auftrag
@@ -79,9 +79,9 @@ Hier die Werke:
 * [Gökhan](https://pages.yorb.xyz/Gökhan/050321/)
 * [Julian](https://pages.yorb.xyz/Julian/050321/)
 * [Nils](https://pages.yorb.xyz/Nils/050321/)
+<hr>
 
-
-<!-- ACHTMÄRZ -->
+<!-- 8. März 2021 -->
 ## 8. März 2021
 Der zweite Auftrag. Hier geht es um die Erstellung einer Website mit mehreren Dateien.
 #### Auftrag
@@ -94,7 +94,7 @@ Der zweite Auftrag. Hier geht es um die Erstellung einer Website mit mehreren Da
   - UTF-8 Charset
   - mind. 3 HTML Dateien
   - mind. 1 Class verwendet
-
+<hr>
 [![Banner][Banner]](https://discord.gg/mDjs5VpNRE)
 
 <!-- CONTACT -->
