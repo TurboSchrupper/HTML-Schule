@@ -26,9 +26,6 @@
   <ol>
     <li>
       <a href="#about-the-project">Informationen zum Projekt</a>
-      <ul>
-        <li><a href="#built-with">Verwendete Libraries</a></li>
-      </ul>
     </li>
     <li>
       <a href="#arbeitsaufträge">Arbeitsaufträge</a>
@@ -55,19 +52,11 @@ Wie Sie davon profitieren können:
 
 
 
-### Verwendete Libraries
-
-* [Bootstrap](https://getbootstrap.com)
-* [JQuery](https://jquery.com)
-* [Django](https://www.djangoproject.com)
-
-
 
 <!-- ARBEITSAUFTRÄGE -->
 # Arbeitsaufträge
 
 Alle bisherigen Arbeitsaufträge und ihre Ergebnisse
-<br /><br /><br />
 
 ## 5. März 2021
 Der erste Auftrag. Hier geht es um die Grundkenntnisse und deren Anwendung.
@@ -81,8 +70,9 @@ Der erste Auftrag. Hier geht es um die Grundkenntnisse und deren Anwendung.
   - UTF-8 Charset
   
 Alle Schüler erledigten diesen Auftrag wirklich großartig. Hier die Werke:
-
-
+* [Gökhan](https://htmlpreview.github.io/?https://github.com/HTML-Gotter/HTML-Schule/blob/main/Gökhan/5.%20März%202021/index.html)
+* [Julian](https://htmlpreview.github.io/?https://github.com/HTML-Gotter/HTML-Schule/blob/main/Julian/5.%20März%202021/index.html)
+* [Nils](https://htmlpreview.github.io/?https://github.com/HTML-Gotter/HTML-Schule/blob/main/Nils/5.%20März%202021/index.html)
 
 
 
@@ -107,7 +97,7 @@ Yann Berton - [@yoorboo](https://twitter.com/yoorboo) - yannberton.yb@gmail.com
 
 
 
-<details close="close">
+<details>
   <summary>Super Secret Addtion</summary>
     Es lebe der Kapitalismus!
 </details>
