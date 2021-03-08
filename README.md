@@ -58,6 +58,8 @@ Wie Sie davon profitieren können:
 
 Alle bisherigen Arbeitsaufträge und ihre Ergebnisse
 
+
+
 ## 5. März 2021
 Der erste Auftrag. Hier geht es um die Grundkenntnisse und deren Anwendung.
 ####Auftrag
@@ -77,6 +79,19 @@ Hier die Werke:
 * [Nils](https://pages.yorb.xyz/Nils/050321/)
 
 
+
+## 8. März 2021
+Der zweite Auftrag. Hier geht es um die Erstellung einer Website mit mehreren Dateien.
+####Auftrag
+  Erstellen Sie eine kleine Website mit mehreren HTML Dateien.
+
+  
+* Vorgaben
+  - Muss auf eine CSS verlinkt haben
+  - Muss ein Bild enthalten
+  - UTF-8 Charset
+  - mind. 3 HTML Dateien
+  - mind. 1 Class verwendet
 
 
 <!-- CONTACT -->
