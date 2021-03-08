@@ -49,7 +49,8 @@ Wie Sie davon profitieren können:
 * Lernen sie HTML
 * Programmieren sie viele Websiten in einer nicht-kompetetiven hilfsbereiten Umgebung
 * Lassen sie sich inspirieren
-<br><br><br><br><br>
+  
+
 [![Banner][Banner]](https://discord.gg/mDjs5VpNRE)
 
 
