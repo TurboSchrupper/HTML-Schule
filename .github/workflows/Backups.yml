@@ -22,7 +22,7 @@ jobs:
       - name: Create Backup
         env:
           FILE_NAME: Backups/${{ steps.date.outputs.date }}.zip
-        run: zip -r $FILE_NAME KPW
+        run: zip -r $FILE_NAME HTML-Schule
         
       - uses: stefanzweifel/git-auto-commit-action@v4
         with:
