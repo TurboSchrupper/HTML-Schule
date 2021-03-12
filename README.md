@@ -97,6 +97,20 @@ Der zweite Auftrag. Hier geht es um die Erstellung einer Website mit mehreren Da
   - mind. 1 Class verwendet
 <hr>
 
+<!-- 12. März 2021 -->
+## 12. März 2021
+Der dritte Auftrag. Hier geht es um die Verbesserung eurer Website.
+#### Auftrag
+  Verbessern/ Überarbeiten Sie ihre kleine Website mit folgenden Kriterien:
+ 
+* Vorgaben
+  - Muss einen Farbverlauf beinhalten
+  - Links müssen nach dem Anklicken eine andere Farbe haben
+  - Links müssen beim drüberfahren mit der Maus eine andere Farbe haben
+  - Abstände zwischen einzelnen Elementen, müsssen ohne den Tag "br" statfinden.
+<hr>
+
+
 [![Banner][Banner]](https://discord.gg/mDjs5VpNRE)
 
 <!-- CONTACT -->
