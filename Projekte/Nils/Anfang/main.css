@@ -1,4 +1,9 @@
-body
-{
-background: #dee0e3;
+body {
+    background: #dee0e3;
+}
+div{
+    width: 600px;
+    height: 500px;
+    margin-left: 200px;
+    background-image: linear-gradient(to left top, green, blue, yellow)
 }
