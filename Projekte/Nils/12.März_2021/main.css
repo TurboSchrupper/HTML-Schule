@@ -1,9 +1,21 @@
 body {
-    background: #dee0e3;
-}
+    font-family: 'Raleway';
+    }
+
 div{
     width: 600px;
     height: 500px;
     margin-left: 200px;
-    background-image: linear-gradient(to left top, green, blue, yellow)
+    background-image: linear-gradient(to left top, green, blue, yellow);
+    }
+
+a {
+    color:#00ff00;
+}
+
+a:hover {
+    color:#eeff00;
+    background-image: linear-gradient(to left top, green, blue, yellow);
+    font-size: 1.5em;
+    font-family: "Montserrat";
 }
