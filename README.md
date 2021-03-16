@@ -109,14 +109,14 @@ Der dritte Auftrag. Hier geht es um die Verbesserung eurer Website.
   - Muss einen Farbverlauf beinhalten
   - Links müssen nach dem Anklicken eine andere Farbe haben
   - Links müssen beim drüberfahren mit der Maus eine andere Farbe haben
-  - Abstände zwischen einzelnen Elementen, müsssen ohne den Tag "br" statfinden.
+  - Abstände zwischen einzelnen Elementen, müsssen ohne den Tag br statfinden.
 <hr>
 
 <!-- 16. März 2021 -->
 ## 16. März 2021
 Der vierte Auftrag. Hier geht es um die Erstellung eines kleinen persönlichen Portfolios.
 #### Auftrag
-  Erstellen Sie eine kleine Website mit mehreren HTML Dateien. Sie soll einen kleinen Lebenslauf enthalten und vorherige, Projekte die Sie erledigt haben. (Eure vorherigen Projekte habe ich hochgeladen fragt mich einfach nach dem Link)
+  Erstellen Sie eine kleine Website mit mehreren HTML Dateien. Sie soll einen kleinen Lebenslauf enthalten und vorherige Projekte, die Sie erledigt haben. (Eure vorherigen Projekte habe ich hochgeladen fragt mich einfach nach dem Link)
 
   
 * Vorgaben
