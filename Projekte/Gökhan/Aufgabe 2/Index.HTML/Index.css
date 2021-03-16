@@ -1,0 +1,28 @@
+body{
+ background-image: linear-gradient(to right bottom, #e6ffff, #33FFD5)
+}
+
+p{
+color: #4d6600
+}
+
+.p1{
+margin-top: 10rem
+}
+
+
+.p2{
+margin-top: 12rem;
+}
+
+a:link{
+color: #cc00cc
+}
+
+a:hover{
+color: #ffffff
+}
+
+a:active{
+color: #ffff4d
+}

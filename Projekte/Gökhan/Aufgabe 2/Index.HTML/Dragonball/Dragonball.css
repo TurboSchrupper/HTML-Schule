@@ -1,7 +1,25 @@
 body{
-background-color: #ffd480
+background-image: linear-gradient(to left top, #944dff, #ffd480);
+font-size: 1.55rem
 }
 
 h1{
-color: #1a53ff
+color: #1a53ff;
+font-size: 4rem
+}
+
+.Luke1{
+margin-top: 12rem;
+}
+
+a:link{
+color: #6b00b3
+}
+
+a:hover{
+color: #0033cc;
+}
+
+a:active{
+color: #80ffbf
 }
