@@ -112,6 +112,28 @@ Der dritte Auftrag. Hier geht es um die Verbesserung eurer Website.
   - Abstände zwischen einzelnen Elementen, müsssen ohne den Tag "br" statfinden.
 <hr>
 
+<!-- 16. März 2021 -->
+## 16. März 2021
+Der vierte Auftrag. Hier geht es um die Erstellung eines kleinen persönlichen Portfolios.
+#### Auftrag
+  Erstellen Sie eine kleine Website mit mehreren HTML Dateien. Sie soll einen kleinen Lebenslauf enthalten und vorherige, Projekte die Sie erledigt haben. (Eure vorherigen Projekte habe ich hochgeladen fragt mich einfach nach dem Link)
+
+  
+* Vorgaben
+  - Muss auf eine CSS verlinkt haben
+  - Muss ein Bild enthalten
+  - UTF-8 Charset
+  - mind. 5 HTML Dateien
+  - mind. 5 Classes verwendet
+  - mind. 5 Div's verwendet
+  - Links müssen beim hovern eine andere Farbe haben
+  - Abstände zwischen einzelnen Elementen, müsssen ohne den Tag br statfinden
+  - KEIN Arial verwenden! (Montserrat o.a)
+  - Benutzen sie W3 für ihre Recherche
+  
+Viel Spaß!
+<hr>
+
 
 [![Banner][Banner]](https://discord.gg/mDjs5VpNRE)
 
