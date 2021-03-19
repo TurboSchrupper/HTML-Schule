@@ -6,3 +6,11 @@ font-family: "Arial Black"
 body {
     background-image: linear-gradient(to left top, grey, #e8ccca);
 }
+
+.abstand{
+margin-right: 50px;
+}
+
+a:hover{
+    color: #0ff56b;
+}
