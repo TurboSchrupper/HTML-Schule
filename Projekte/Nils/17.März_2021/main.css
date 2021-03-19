@@ -14,3 +14,11 @@ margin-right: 50px;
 a:hover{
     color: #0ff56b;
 }
+
+a:visited{
+    color: red;
+}
+
+div{
+font-family: "Arial Black"
+}
