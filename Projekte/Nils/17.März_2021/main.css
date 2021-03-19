@@ -3,8 +3,12 @@
     font-family: "Arial Black"
 }
 
-body {
+.hintergrund1{
     background-image: linear-gradient(to left top, grey, #e8ccca);
+}
+
+.hintergrund2{
+    background-color: #2342b0;
 }
 
 .abstand{
@@ -19,7 +23,7 @@ a:visited{
     color: red;
 }
 
-div{
+div.a{
     font-family: "Arial Black"
 }
 
@@ -30,4 +34,16 @@ div{
 .CV{
     margin-top: 60px;
     margin-left: 30px;
+}
+
+.hintergrund3{
+    background-color: #24d466;
+}
+
+div.b{
+    text-indent: 50px;
+}
+
+.Kopf{
+margin-left: 40px;
 }
