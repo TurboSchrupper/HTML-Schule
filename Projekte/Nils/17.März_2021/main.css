@@ -3,7 +3,7 @@
     font-family: "Bahnschrift Light";
 }
 
-.indexbody{
+.mainbody{
     background-image: linear-gradient(to left top, grey, #e8ccca);
     font-family: "Oswald ExtraLight"
 }
@@ -50,5 +50,15 @@ li {
 a {
     color: #802000;
     font-size: 20px;
-    font-family: "Bahnschrift Light"
+    font-family: "Bahnschrift Light";
+}
+
+.impbody{
+    background-color: #fff4b8;
+    font-family: "Bahnschrift Light";
+    font-size: 20px;
+}
+
+th, td {
+    text-align: left;
 }
