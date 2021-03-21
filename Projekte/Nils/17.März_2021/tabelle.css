@@ -3,3 +3,11 @@ table, th, td {
   border-collapse: collapse;
   font-family: Open Sans;
 }
+
+table{
+    margin-left: 20px;
+}
+
+th, td{
+    text-align: center;
+}
