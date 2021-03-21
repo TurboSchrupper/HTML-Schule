@@ -62,3 +62,8 @@ a {
 th, td {
     text-align: left;
 }
+
+body {
+    margin-left: 0px;
+    margin-right: 0px;
+}
