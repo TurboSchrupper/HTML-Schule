@@ -1,10 +1,11 @@
-.Überschrift{
+.Überschrift1{
     color: green;
-    font-family: "Arial Black"
+    font-family: "Bahnschrift Light";
 }
 
-.hintergrund1{
+.indexbody{
     background-image: linear-gradient(to left top, grey, #e8ccca);
+    font-family: "Oswald ExtraLight"
 }
 
 .hintergrund2{
@@ -19,16 +20,8 @@ a:hover{
     color: #0ff56b;
 }
 
-a:visited{
-    color: red;
-}
-
 div.a{
     font-family: "Arial Black"
-}
-
-.abstand2{
-    margin-bottom: 50px;
 }
 
 .CV{
@@ -36,12 +29,9 @@ div.a{
     margin-left: 30px;
 }
 
-.hintergrund3{
+.Lebenslauf{
     background-color: #24d466;
-}
-
-div.b{
-    text-indent: 50px;
+    font-family: "Bahnschrift";
 }
 
 .Kopf{
@@ -49,6 +39,16 @@ div.b{
     margin-bottom: 25px;
 }
 
-body{
-    font-family: "Gochi Hand";
+li {
+  display: inline;
+}
+
+.bar {
+    background-color: #0099ff;
+}
+
+a {
+    color: #802000;
+    font-size: 20px;
+    font-family: "Bahnschrift Light"
 }
