@@ -1,6 +1,6 @@
 .Überschrift1{
     color: green;
-    font-family: "Bahnschrift Light";
+    font-family: "Montserrat";
 }
 
 .mainbody{
@@ -44,6 +44,7 @@ li {
 }
 
 .bar {
+    margin-top: -10px;
     background-color: #0099ff;
 }
 
